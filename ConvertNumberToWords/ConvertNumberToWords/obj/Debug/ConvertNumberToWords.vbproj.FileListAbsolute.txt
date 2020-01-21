@@ -1,0 +1,20 @@
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.exe.config
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.Form1.resources
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.Resources.resources
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.vbproj.GenerateResource.Cache
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.exe
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.pdb
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.xml
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.exe
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.xml
+C:\Users\Sony\AppData\Local\Temporary Projects\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.pdb
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.exe.config
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.exe
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.pdb
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.exe
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.pdb
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\ConvertNumberToWords.xml
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.Form1.resources
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.Resources.resources
+C:\Users\Sony\Documents\Visual Studio 2013\Projects\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\ConvertNumberToWords.vbproj.GenerateResource.Cache
